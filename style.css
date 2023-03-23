@@ -1,0 +1,73 @@
+h1{
+    color: #66BFBF;
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    font-family: Merienda;
+}
+
+
+h2{
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    font-family: ;
+     font-size: 20px;
+     padding-bottom: 50px;
+}
+
+.middle-container, h2{
+    padding-bottom: 100px;
+}
+
+.intro{
+    padding-bottom: 200px;
+}
+
+.top-face{
+    border-radius: 100px;
+    position: fixed;
+    left: 100px;
+    top: 20px;
+    width: 40px;
+    height: 70px;
+}
+
+.Myface{
+    width: 100px;
+    border-end-end-radius: 50px;
+    position: relative;
+    text-align: center;
+    
+}
+
+.top-container{
+    background-color: #F8EDE8;
+    position: relative;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    width: 50px;
+}
+
+.middle-container{
+    text-align: center;
+    background-color: #DFD3C3;
+    width: auto;
+}
+
+.bottom-container{
+    text-align: center;
+    
+}
+
+.buttom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    top: 250px;
+    width: 50px;
+}
